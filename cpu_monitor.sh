@@ -18,7 +18,7 @@ function show_help() {
     echo "Exemples:"
     echo "  $0 --cpu"
     echo "  $0 --all"
-}
+}xxxxxxxxxxxx
 
 function show_cpu() {
     echo "=== Utilisation CPU ==="
